@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @RestController
 public class ApiTestApplication {
+
+	// Adding comment
 	public static void main(String[] args) {
 		SpringApplication.run(ApiTestApplication.class, args);
 	}
